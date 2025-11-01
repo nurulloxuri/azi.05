@@ -1,0 +1,13 @@
+{
+  "name": "telegram-gpt-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with OpenAI GPT integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "openai": "^4.67.0"
+  }
+}
